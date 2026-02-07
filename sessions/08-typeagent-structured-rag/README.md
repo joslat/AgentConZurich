@@ -16,15 +16,15 @@ Discover TypeAgent and the evolution from traditional RAG to Structured RAG for 
 
 ## Materials
 
-- 📊 Slides: *Coming soon*
-- 💻 Code: *Coming soon*
-- 🎥 Recording: *Coming soon*
+- 📊 Slides: [slides](slides/)
+- 💻 Code: [TypeAgent TypeScript Implementation](https://github.com/microsoft/TypeAgent) [TypeAgent Python Implementation](https://github.com/microsoft/typeagent-py)
+- 🎥 Recording: [videos](videos/)
 
 ---
 
 ## Speaker Bio
 
-Bernhard Merkle
+Bernhard Merkle https://www.linkedin.com/in/bernhard-merkle-738b73/
 
 ---
 
