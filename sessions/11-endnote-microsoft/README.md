@@ -12,7 +12,7 @@
 
 Closing endnote from Microsoft Switzerland. 
 
-We delve into AI Coding Agents, _vibe coding_ and how they interact with Software Development Lifecycle best practices as we have known them for decades.
+We delve into AI Coding Agents, _vibe coding_ and how they interact with Software Development Lifecycle best practices as we have known them for decades. We illustrate those with live coding demos leveraging GitHub Copilot CLI, WorkIQ and running Copilot and Claude as Coding Agents in GitHub.
 
 ---
 
@@ -24,7 +24,7 @@ We delve into AI Coding Agents, _vibe coding_ and how they interact with Softwar
 
 ## Speaker Bio
 
-Dominique Broeglin is a Sr Software Solution Engineer at Microsoft, passionate about Software Craftmanship and its intersection with AI. We illustrate those with live coding demos leveraging GitHub Copilot CLI, WorkIQ and running Copilot and Claude as Coding Agents in GitHub.
+Dominique Broeglin is a Sr Software Solution Engineer at Microsoft, passionate about Software Craftmanship and its intersection with AI.
 
 ---
 
