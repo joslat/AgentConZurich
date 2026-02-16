@@ -16,15 +16,14 @@ A deep-dive workshop on using agentic AI to design, debug, and visualize cloud s
 
 ## Materials
 
-- 📊 Slides: *Coming soon*
-- 💻 Code: *Coming soon*
-- 🎥 Recording: *Coming soon*
+- 📊 Slides: N/A
+- 💻 Workshop: [*Coming soon*](https://github.com/error505/AgentCon-Cloud-Repo)
 
 ---
 
 ## Speaker Bio
 
-Igor Iric
+Igor Iric: https://www.linkedin.com/in/igor-iric/
 
 ---
 
