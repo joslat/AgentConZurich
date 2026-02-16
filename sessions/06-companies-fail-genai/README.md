@@ -16,15 +16,13 @@ An insightful session covering the top 10 reasons why companies struggle with ge
 
 ## Materials
 
-- 📊 Slides: *Coming soon*
-- 💻 Code: *Coming soon*
-- 🎥 Recording: *Coming soon*
+- 📊 [Slides](./David_Schneider_10_reasons_why_companies_fail_to_adopt_generative_AI.pdf) 
 
 ---
 
 ## Speaker Bio
 
-David Schneider
+David Schneider [LinkedIn](https://www.linkedin.com/in/david-schneider/)
 
 ---
 
