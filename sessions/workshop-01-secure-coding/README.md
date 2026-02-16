@@ -16,9 +16,8 @@ A hands-on workshop focusing on secure coding practices for developers who rely 
 
 ## Materials
 
-- 📊 Slides: *Coming soon*
-- 💻 Code: *Coming soon*
-- 🎥 Recording: *Coming soon*
+- 📊 Slides: https://github.com/Betta-Lyon-Delsordo/insecure-vibes/blob/main/slides.pdf
+- 💻 Code: http://github.com/Betta-Lyon-Delsordo/insecure-vibes
 
 ---
 
@@ -29,8 +28,6 @@ Betta Lyon Delsordo
 ---
 
 ## Prerequisites
-
-*Coming soon*
 
 ---
 
