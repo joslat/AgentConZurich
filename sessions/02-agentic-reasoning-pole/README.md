@@ -16,17 +16,15 @@ Exploring how to integrate Neo4j graph databases with the Microsoft Agent Framew
 
 ## Materials
 
-- 📊 Slides: *Coming soon*
-- 💻 Code: *Coming soon*
-- 🎥 Recording: *Coming soon*
+- 📊 Slides: Right on this folder
+- 💻 Code: See https://github.com/joslat/neo4j-agent-framework-exploration (under the GraphDatabaseDetective folder)
 
 ---
 
-## Speaker Bios
+## Speakers
 
-**Zaid Zaim**
-
-**Jose Luis Latorre Millas**
+**Zaid Zaim**: https://www.linkedin.com/in/zaidzaim/
+**Jose Luis Latorre Millas**: https://www.linkedin.com/in/joslat/
 
 ---
 

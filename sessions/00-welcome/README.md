@@ -16,7 +16,7 @@ Welcome session opening AgentCon Zurich.
 
 ## Materials
 
-- 📊 Slides: *Coming soon*
+- 📊 Slides: Right on this folder
 
 ---
 
